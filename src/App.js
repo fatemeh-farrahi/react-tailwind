@@ -12,7 +12,7 @@ function App() {
       </div>
 
       <div className="grid grid-cols-3 gap-5 mt-3">
-        <div className="bg-bermuda"> Grid with col 3 </div>
+        <div className="bg-bermuda text-sm"> Grid with col 3 </div>
         <div className="bg-silver">02</div>
         <div className="bg-silver">03</div>
         <div className="bg-silver">04</div>
